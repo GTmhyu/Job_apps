@@ -2,7 +2,7 @@
 # Build and Deploy a IT Job Search App | React Native
 
 ## Home
-![RN Course](https://github.com/GTmhyu/Foto/blob/main/Home.jpg)
+ <img src="https://github.com/GTmhyu/Foto/blob/main/About_J.jpg&label=Profile%20views&color=0e75b6&style=flat" alt="GTmhyu" />
 
 ## Job Detail
 ![RN Course](https://github.com/GTmhyu/Foto/blob/main/About_J.jpg)
